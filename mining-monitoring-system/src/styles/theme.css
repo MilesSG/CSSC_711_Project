@@ -1,0 +1,38 @@
+:root {
+  /* 主色调 */
+  --primary-color: #409EFF;
+  --success-color: #67C23A;
+  --warning-color: #E6A23C;
+  --danger-color: #F56C6C;
+  --info-color: #909399;
+
+  /* 背景色 */
+  --bg-color: #0a0c1b;
+  --bg-color-light: #1a1c2a;
+  --bg-color-lighter: #2a2c3a;
+
+  /* 文字颜色 */
+  --text-color: #ffffff;
+  --text-color-light: #909399;
+  --text-color-lighter: #606266;
+
+  /* 边框颜色 */
+  --border-color: #2a2c3a;
+  --border-color-light: #3a3c4a;
+
+  /* 阴影 */
+  --box-shadow: 0 2px 12px rgba(0, 0, 0, 0.1);
+  --box-shadow-light: 0 2px 4px rgba(0, 0, 0, 0.2);
+
+  /* 圆角 */
+  --border-radius: 8px;
+  --border-radius-small: 4px;
+
+  /* 间距 */
+  --spacing-small: 10px;
+  --spacing-medium: 15px;
+  --spacing-large: 20px;
+
+  /* 过渡 */
+  --transition: all 0.3s ease;
+} 
